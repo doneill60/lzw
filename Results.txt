@@ -1,0 +1,94 @@
+Results					Ratios
+------------------------------------------------------------------
+Large.txt (1193 kb)
+	Author LZW:		605 kb	1.97	
+	Do Nothing: 	491 kb	2.42		
+	Reset:		516 kb	2.31	
+	Monitor:		491 kb	2.42
+	Winzip:		495 kb	2.41
+Medium.txt	(25 kb)
+	Author LZW:		13 kb		1.92
+	Do Nothing:		13 kb		1.92
+	Reset:		13 kb		1.92		
+	Monitor:		13 kb		1.92
+	Winzip:		11 kb		1.92
+Frosty.jpg (124 kb)
+	Author LZW:		177 kb	.70
+	Do Nothing:		160 kb	.76
+	Reset:		168 kb	.74
+	Monitor:		160 kb	.78
+	Winzip:		127 kb	.98
+Wacky.bmp (900 kb)
+	Author LZW:		3.85 kb	233.77
+	Do Nothing:		3.85 kb	233.77
+	Reset:		3.85 kb	233.77
+	Monitor:		3.85 kb	233.77
+	Winzip:		3.23 kb	278.64
+winnt256.bmp (153 kb)
+	Author LZW:		158 kb 	.97
+	Do Nothing:		61.4 kb	2.49
+	Reset:		61.4 kb	2.49
+	Monitor:		61.4 kb	2.49
+	Winzip:		49 kb		3.12
+Lego-big.gif (91.1 kb)
+	Author LZW:		129 kb 	1.42
+	Do Nothing:		119 kb	.77
+	Reset:		119 kb	.77
+	Monitor:		119 kb	.77
+	Winzip:		92 kb		.99
+Edit.exe (230 kb)
+	Author LZW:		251 kb	.92
+	Do Nothing:		152 kb	1.51
+	Reset:		148 kb	1.55
+	Monitor:		152 kb	1.51
+	Winzip:		127 kb	1.81
+gone_fishing.bmp (16.9 kb)
+	Author LZW:		8.75 kb	1.93
+	Do Nothing:		8.75 kb	1.93
+	Reset:		8.75 kb	1.93
+	Monitor:		8.75 kb	1.93
+	Winzip:		8.32 kb	2.03
+texts.tar (1.31 mb)
+	Author LZW:		988 kb	1.33
+	Do Nothing:		583 kb	2.25
+	Reset:		576 kb	2.27
+	Monitor:		583 kb	2.25
+	Winzip:		534 kb	2.45
+code.txt (70.6 kb)
+	Author LZW:		31 kb		2.28
+	Do Nothing:		23.9 kb	2.95
+	Reset:		23.9 kb	2.95
+	Monitor:		23.9 kb	2.95
+	Winzip:		15 kb		4.71
+code2.txt (56.3 kb)
+	Author LZW:		24 kb		2.35	
+	Do Nothing:		20 kb		2.82
+	Reset:		20 kb		2.82
+	Monitor:		20 kb		2.82	
+	Winzip:		13 kb		4.33
+bmps.tar (1.05 mb)
+	Author LZW:		925 kb	1.14
+	Do Nothing:		79 kb		13.29
+	Reset:		79 kb		13.29
+	Monitor:		79 kb		13.29
+	Winzip:		63 kb		16.67
+Assig2.doc (85 kb)
+	Author LZW:		75 kb		1.13
+	Do Nothing:		39.1 kb	2.17
+	Reset:		39.1 kb	2.17
+	Monitor:		39.1 kb	2.17
+	Winzip:		23 kb		3.70
+all.tar (2.89 mb)
+	Author LZW:		1800 kb	1.61
+	Do Nothing:		1700 kb	1.70
+	Reset:		1120 kb	2.58
+	Monitor: 		2040 kb	1.42
+	Winzip:		973 kb	2.97
+
+
+	
+
+
+
+
+	
